@@ -14,7 +14,7 @@
 // #include "Algorithm/MyGreedyAlgo/MyGreedyAlgo.h"
 
 using namespace std;
-
+//f*** 
 
 Request generate_new_request(int num_of_node, int time_limit){
     //亂數引擎 
